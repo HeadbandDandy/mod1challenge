@@ -1,0 +1,85 @@
+/* Universal font to match first style sheet*/
+
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.body {
+    background-color: #2a607c;
+}
+h1 {
+    display: inline-block;
+    font-size: 48px;
+}
+.header {
+    padding: 40px;
+    background-color: #f4f767;
+    color: #2a607c;
+
+}
+/*blocked off contact methods (each section=new block)*/
+.contact-methods {
+    width: 66%;
+    display: inline-block;
+    margin-left: 20px;
+    background-color: #2a607c;
+    
+}
+.email_block
+{
+    margin-bottom: 35px;
+    padding: 50px;
+    height: 200px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: #2a607c;
+    color:#f4f767;
+    font-size: 300%;
+}
+.phone_block {
+    margin-bottom: 35px;
+    padding: 50px;
+    height: 200px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: #2a607c;
+    color:#f4f767;
+    font-size: 300%;
+}
+.address_block {
+    margin-bottom: 35px;
+    padding: 50px;
+    height: 200px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: #2a607c;
+    color:#f4f767;
+    font-size: 300%;
+}
+
+
+
+
+/*buttons for messages need an increase in the size font*/
+.email-button {
+    font-size: xx-large;
+    box-sizing: border-box;
+    background-color: #2a607c;
+    color:#f4f767;
+}
+.phone-button {
+    
+        font-size: xx-large;
+        box-sizing: border-box;
+        background-color: #2a607c;
+        color:#f4f767;
+ }
+ .address-button {
+    
+        font-size: xx-large;
+        box-sizing: border-box;
+        background-color: #2a607c;
+        color:#f4f767;
+    
+ }
+
