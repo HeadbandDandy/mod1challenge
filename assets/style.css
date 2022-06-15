@@ -5,7 +5,7 @@
     margin: 0;
 }
 
-body {
+body { 
     background-color: #d9dcd6;
 }
 
@@ -20,7 +20,7 @@ body {
     display: inline-block;
     font-size: 48px;
 }
-
+/*change in color of "SEO" to add emphasis*/
 .header h1 .seo {
     color: #f4f767;
 }
